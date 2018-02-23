@@ -6,6 +6,4 @@ def reverser(sentence)
   end
 end
 
-puts reverser(" ")
-
-#change
+puts reverser("Anton")
